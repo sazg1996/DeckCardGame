@@ -1,0 +1,25 @@
+.loginContainer {
+    display: flex;
+
+    justify-content: center;
+
+
+}
+
+input {
+
+    padding: 8px;
+    border-radius: 4px;
+}
+
+button {
+    width: 80px;
+    margin-top: 14px;
+}
+
+.inputContainer {
+    display: grid;
+    width: 30%;
+    margin: 20px;
+    text-align: left;
+}

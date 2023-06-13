@@ -1,0 +1,16 @@
+.card{
+    padding: 8px;
+    display:flex;
+    flex-direction: column;
+    gap:3px;
+    align-items: center;
+}
+
+.card:nth-child(11) {
+    background-color: coral;    
+    border-radius: 5px;
+}
+
+img {
+    width: 80px;
+}
